@@ -1,1 +1,2 @@
-# Portfolio-project
+SQL-Covid-19-Portfolio-Project
+This project was performed using Microsoft SQL Server, It focuses on using SQL for exploratory data analysis and querying of the Covid-19 data, which was split into two datasets; Covid Deaths and Covid Vaccinations. It comprises covid records from February 2020 to May 2022. The idea behind this project is to get information and insights into the Covid-19 impact in the world.
